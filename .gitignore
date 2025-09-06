@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv
+*.sqlite3
+*.db
+.DS_Store
+
+# Ignore common image files
+*.png
+*.jpg
+*.jpeg
+*.gif
