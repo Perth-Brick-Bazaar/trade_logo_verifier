@@ -1,0 +1,8 @@
+{
+    "expected_count": 17,
+    "tray_profile": "default",
+    "blob_min_area": 100,
+    "blob_max_area": 100000,
+    "blob_margin": 10,
+    "notes": "Edit expected_count and other parameters as needed for your tray."
+}
